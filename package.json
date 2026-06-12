@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "slidev",
     "build": "slidev build",
-    "build:gh": "slidev build --base ./",
+    "build:gh": "slidev build",
     "export": "slidev export"
   },
   "keywords": [],
